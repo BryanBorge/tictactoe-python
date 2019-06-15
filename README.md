@@ -1,3 +1,3 @@
 # tictactoe-python
-Console based TicTacToe game played against AI written in Python
-Worked on this along with [Ian](https://github.com/mnai01)
+Console based TicTacToe game played against AI written in Python.
+Worked on this with [Ian M](https://github.com/mnai01)
